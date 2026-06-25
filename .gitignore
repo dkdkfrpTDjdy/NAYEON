@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.streamlit/secrets.toml
+outputs/
+uploads/
+*.xlsx
+*.xls
+*.log
+.pytest_cache/
